@@ -1,0 +1,18 @@
+h1{
+    font-weight: bold;
+    text-align: underline;
+    font-size: 30px;
+}
+
+.profile-image{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.profile-pic:hover{
+    border: 2px solid black;
+    padding: 5px;
+    background-color: greenyellow;
+}
